@@ -1,0 +1,7 @@
+Package: LinuxMotionMagic
+Version: 8.26
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Carl <spoinkosgithub@gmail.com>
+Description: An Animation Application for Linux
